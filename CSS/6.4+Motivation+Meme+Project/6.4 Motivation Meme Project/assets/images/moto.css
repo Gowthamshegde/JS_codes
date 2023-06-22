@@ -1,0 +1,32 @@
+.emg2{
+    height: 300px;
+    width: 300px;
+
+}
+.moto1{
+    /* margin-top: 150px;
+    margin-left: 150px; */
+    height: 300px;
+    width: 300px;
+    border: 5px solid yellow;
+}
+.moto2{
+    margin-top: 50px;
+    margin-left: 150px;
+    height: 400px;
+    width: 310px;
+    border: solid black;
+    background-color: black;
+}
+h5{
+    color: yellow;
+    margin-left: 60px;
+    margin-bottom: 100px;
+    
+    font-size: 20px;
+}
+p{
+    color: white;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
